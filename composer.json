@@ -1,0 +1,12 @@
+{
+    "name": "frankdejonge/rector-example",
+    "require": {
+        "rector/rector": "^0.6.2"
+    },
+    "authors": [
+        {
+            "name": "Frank de Jonge",
+            "email": "info@frenky.net"
+        }
+    ]
+}
