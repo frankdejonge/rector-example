@@ -1,0 +1,8 @@
+---
+parameters:
+    paths:
+        - 'src'
+    autoload_paths:
+        - './vendor/autoload.php'
+services:
+    Rector\Rector\Namespace_\PseudoNamespaceToNamespaceRector: ~

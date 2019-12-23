@@ -3,6 +3,14 @@
     "require": {
         "rector/rector": "^0.6.2"
     },
+    "autoload": {
+        "psr-4": {
+            "\\": "src"
+        },
+        "classmap": [
+            "src"
+        ]
+    },
     "authors": [
         {
             "name": "Frank de Jonge",
